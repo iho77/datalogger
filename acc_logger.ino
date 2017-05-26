@@ -1,24 +1,7 @@
 #include <Adafruit_ASFcore.h>
-//#include <clock.h>
-//#include <clock_feature.h>
-//#include <compiler.h>
-//#include <gclk.h>
-//#include <i2s.h>
-//#include <interrupt.h>
-//#include <interrupt_sam_nvic.h>
-//#include <parts.h>
-//#include <pinmux.h>
-//#include <power.h>
-//#include <reset.h>
-//#include <status_codes.h>
-//#include <system.h>
-//#include <system_interrupt.h>
-//#include <system_interrupt_features.h>
-//#include <Wire.h> 
 #include <Adafruit_L3GD20.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_LSM303_U.h>
-//#include "Adafruit_TMP007.h"
 #include <avdweb_SAMDtimer.h>
 #include <Adafruit_SleepyDog.h>
 
